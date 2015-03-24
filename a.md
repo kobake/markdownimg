@@ -4,4 +4,4 @@ AAAAAAAAAABBB
 BBBBCCC
 ----
 
-[img](a.png)
+![img](a.png)
